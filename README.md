@@ -46,7 +46,7 @@ A Python-based desktop application to check the strength of passwords. This tool
    cd python
    ```
 
-2. **Run the Application*:
+2. **Run the Application**:
    ```bash
    python main.py
    ```
